@@ -1,2 +1,2 @@
-# muthu.tech
-new repository
+muthu.tech
+new repository create
